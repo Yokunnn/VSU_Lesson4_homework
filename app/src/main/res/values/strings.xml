@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VSU_Lesson4_homework</string>
+    <string name="start">Начать регистрацию</string>
+    <string name="next">Далее</string>
+    <string name="back">Назад</string>
+    <string name="close">Закрыть</string>
+    <string name="name_activity">NameActivity</string>
+    <string name="surname_activity">SurnameActivity</string>
+    <string name="age_activity">AgeActivity</string>
+    <string name="enter_age">Введите возраст</string>
+    <string name="enter_surname">Введите фамилию</string>
+    <string name="enter_name">Введите имя</string>
+</resources>
